@@ -1,6 +1,8 @@
 # Quentin Cholier
 
-Je suis ingénieur en mécatronique et je développe des outils pour la production audiovisuelle, de la préparation du câblage à la réalisation multicaméra. Mes projets associent interfaces de régie, intégrations matériel et électronique embarquée.
+Je suis ingénieur en mécatronique au sein d’une société de recherche et développement. J’y travaille sur des projets variés, notamment dans le domaine des systèmes de transmission.
+
+Sur mon temps libre, je développe des applications et des outils pour la production audiovisuelle, de la préparation du câblage à la réalisation multicaméra. Ces projets mêlent interfaces de régie, intégration de matériel et électronique embarquée.
 
 ## Projets en cours
 
